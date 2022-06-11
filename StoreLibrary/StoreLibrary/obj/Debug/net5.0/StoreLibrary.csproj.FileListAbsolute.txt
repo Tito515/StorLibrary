@@ -1,0 +1,16 @@
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.deps.json
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.dll
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\ref\StoreLibrary.dll
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.pdb
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.csproj.AssemblyReference.cache
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.AssemblyInfoInputs.cache
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.AssemblyInfo.cs
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.csproj.CoreCompileInputs.cache
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.dll
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\ref\StoreLibrary.dll
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.pdb
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.dll.config
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.runtimeconfig.json
+F:\ClassLibrary\StoreLibrary\StoreLibrary\bin\Debug\net5.0\StoreLibrary.runtimeconfig.dev.json
+F:\ClassLibrary\StoreLibrary\StoreLibrary\obj\Debug\net5.0\StoreLibrary.genruntimeconfig.cache
